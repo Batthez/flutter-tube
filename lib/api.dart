@@ -4,7 +4,7 @@ import 'package:http/http.dart' as http;
 
 import 'models/video.dart';
 
-const API_KEY = "AIzaSyD-dpB3NlYgARZd8p-_UN2AHtR8qOkQEhM";
+const API_KEY = "";
 
 class Api {
 
